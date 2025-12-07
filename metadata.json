@@ -1,0 +1,8 @@
+{
+  "name": "Nomadia - Guide Culturel Tunisie",
+  "description": "Un chatbot intelligent et immersif pour explorer la culture, l'histoire et les traditions de la Tunisie.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
